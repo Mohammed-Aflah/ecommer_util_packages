@@ -1,0 +1,15 @@
+{
+  "name": "@aflu/jwt_verify",
+  "version": "1.0.0",
+  "description": "library for validating jwt ",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/jsonwebtoken": "^9.0.5",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
